@@ -13,6 +13,8 @@ const FirstFactorial = (num) => {
 }
    
 // keep this function call here 
-FirstFactorial(readline());                            
+FirstFactorial(4);                            
+FirstFactorial(8);
+
 
  
